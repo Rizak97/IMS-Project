@@ -39,7 +39,7 @@ public class CustomerDAO implements Dao<Customer> {
 			List<Customer> customers = new ArrayList<>();
 			while (resultSet.next()) {
 				customers.add(modelFromResultSet(resultSet));
-			}
+			} 
 			return customers;
 		} catch (SQLException e) {
 			LOGGER.debug(e);
