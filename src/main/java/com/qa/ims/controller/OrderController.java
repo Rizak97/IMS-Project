@@ -79,34 +79,6 @@ public class OrderController implements CrudController<Order>{
 	}
 
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 	
 }
